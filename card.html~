@@ -6,12 +6,5 @@
       <p>Zainteresowania: podróż/p>
       <a href="http://v-ie.uek.krakow.pl/~s123456" itemprop="url">http://v-ie.uek.krakow.pl/~s180472</a>
     </div>
-    
-    <ul id="media-spolecznosciowe"> 
-      <li><a href="http://facebook.com">Facebook</a></li>
-      <li><a href="http://twitter.com">Twitter</a></li>
-      <li><a href="http://google.com">Google</a></li>
-      <li><a id="social-github" href="https://github.com/ZyzioZiom">Github</a>
-    </ul>
- </body>
+  </body>
 </html>
